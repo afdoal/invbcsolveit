@@ -1,0 +1,24 @@
+table.initiallist {
+	border-spacing: 0px;
+	border: solid 1px #ddd;
+	border-collapse:collapse;
+	color: #333; margin-top:10px;
+	font: 13px "Lucida Grande", Verdana, Arial, "Bitstream Vera Sans", sans-serif;
+}
+
+table.initiallist td{
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	padding:5px 15px;
+	background: #fff;
+	font: 11px "Lucida Grande", Verdana, Arial, "Bitstream Vera Sans", sans-serif;
+	line-height:1.5em;
+	vertical-align:top;
+}
+table.initiallist th {
+	text-align: center;
+	padding:5px 15px;
+	background: url(../img/gray-grad2.png);
+	color: #333; font-weight:bold;
+	border-bottom: 4x solid #ddd;
+}

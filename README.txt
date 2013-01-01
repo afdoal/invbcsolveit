@@ -1,0 +1,1 @@
+File ini diproteksi oleh ioncube..., dan security lainnya..

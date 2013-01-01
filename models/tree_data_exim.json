@@ -1,0 +1,81 @@
+[{  
+    "text":"Bea Cukai",  
+    "state":"open", 
+	"children":[{  
+    "id":1,  
+    "text":"Data Master",  
+	"state":"closed", 
+    "iconCls":"icon-save",  
+    "children":[{  
+	        "text":"<a href=\"masterdata/barang_frm.php?NmMenu=Barang\" target=\"content\">Barang</a>"    
+		},{  
+			"text":"<a href=\"masterdata/kpbc_frm.php?NmMenu=KPBC\" target=\"content\">KPBC</a>"
+		},{  
+			"text":"<a href=\"masterdata/pelabuhan_frm.php?NmMenu=Pelabuhan\" target=\"content\">Pelabuhan</a>"
+		},{  
+			"text":"<a href=\"masterdata/penimbunan_frm.php?NmMenu=Tempat Penimbunan\" target=\"content\">Tempat Penimbunan</a>"				
+		}]  
+	},{  
+    	"text":"Form Bea Cukai",  
+		"state":"closed",  
+		"children":[{  
+			"text":"<a href=\"beacukai/bc23/bc23_frm.php?NmMenu=BC 2.3 (PEMBERITAHUAN IMPOR BARANG UNTUK DITIMBUN DI TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">Form BC 2.3</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc25/bc25_frm.php?NmMenu=BC 2.5 (PEMBERITAHUAN IMPOR BARANG DARI TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">Form BC 2.5</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc261/bc261_frm.php?NmMenu=BC 2.6.1 (PENGELUARAN BARANG DARI TEMPAT PENIMBUNAN BERIKAT DENGAN JAMINAN)\" target=\"content\">Form BC 2.6.1</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc262/bc262_frm.php?NmMenu=BC 2.6.2 (PEMASUKAN KEMBALI BARANG YANG DIKELUARKAN DARI TPB DENGAN JAMINAN)\" target=\"content\">Form BC 2.6.2</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc27/bc27_frm.php?ket=in&NmMenu=BC 2.7 In(PEMBERITAHUAN PENGELUARAN BARANG UNTUK DIANGKUT DARI TPB KE TPB LAINNYA)\" target=\"content\">Form BC 2.7 In</a>"
+		},{
+			"text":"<a href=\"beacukai/bc27/bc27_frm.php?ket=out&NmMenu=BC 2.7 Out(PEMBERITAHUAN PENGELUARAN BARANG UNTUK DIANGKUT DARI TPB KE TPB LAINNYA)\" target=\"content\">Form BC 2.7 Out</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc30/bc30_frm.php?NmMenu=BC 3.0 (PEMBERITAHUAN EKSPOR BARANG)\" target=\"content\">Form BC 3.0</a>"	
+		},{  
+			"text":"<a href=\"beacukai/bc40/bc40_frm.php?NmMenu=BC 4.0 (PEMASUKAN BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN KE TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">Form BC 4.0</a>"	
+		},{  
+			"text":"<a href=\"beacukai/bc41/bc41_frm.php?NmMenu=BC 4.1 (PENGELUARAN KEMBALI BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN DARI TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">Form BC 4.1</a>"			
+		}]
+	},{  
+		"text":"Report",  
+		"state":"closed",  
+		"children":[{  
+			"text":"<a href=\"beacukai/bc23/bc23_pilap.php?NmMenu=LAPORAN BC 2.3 (PEMBERITAHUAN IMPOR BARANG UNTUK DITIMBUN DI TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">BC 2.3</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc25/bc25_pilap.php?NmMenu=LAPORAN BC 2.5 (PEMBERITAHUAN IMPOR BARANG DARI TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">BC 2.5</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc261/bc261_pilap.php?NmMenu=LAPORAN BC 2.6.1 (PENGELUARAN BARANG DARI TEMPAT PENIMBUNAN BERIKAT DENGAN JAMINAN)\" target=\"content\">BC 2.6.1</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc262/bc262_pilap.php?NmMenu=LAPORAN BC 2.6.2 (PEMASUKAN KEMBALI BARANG YANG DIKELUARKAN DARI TPB DENGAN JAMINAN)\" target=\"content\">BC 2.6.2</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc27/bc27_pilap.php?ket=in&NmMenu=LAPORAN BC 2.7 In(PEMBERITAHUAN PENGELUARAN BARANG UNTUK DIANGKUT DARI TPB KE TPB LAINNYA)\" target=\"content\">BC 2.7 In</a>"
+		},{ 
+			"text":"<a href=\"beacukai/bc27/bc27_pilap.php?ket=out&NmMenu=LAPORAN BC 2.7 Out (PEMBERITAHUAN PENGELUARAN BARANG UNTUK DIANGKUT DARI TPB KE TPB LAINNYA)\" target=\"content\">BC 2.7 Out</a>"
+		},{  
+			"text":"<a href=\"beacukai/bc30/bc30_pilap.php?NmMenu=LAPORAN BC 3.0 (PEMBERITAHUAN EKSPOR BARANG)\" target=\"content\">BC 3.0</a>"	
+		},{  
+			"text":"<a href=\"beacukai/bc40/bc40_pilap.php?NmMenu=LAPORAN BC 4.0 (PEMASUKAN BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN KE TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">BC 4.0</a>"	
+		},{  
+			"text":"<a href=\"beacukai/bc41/bc41_pilap.php?NmMenu=LAPORAN BC 4.1 (PENGELUARAN KEMBALI BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN DARI TEMPAT PENIMBUNAN BERIKAT)\" target=\"content\">BC 4.1</a>"
+		},{  
+			"text":"<a href=\"beacukai/masukbarang_pilap.php?NmMenu=LAPORAN PEMASUKAN BARANG PER DOKUMEN PABEAN\" target=\"content\">Pemasukan Barang</a>"
+		},{  
+			"text":"<a href=\"beacukai/keluarbarang_pilap.php?NmMenu=LAPORAN PENGELUARAN BARANG PER DOKUMEN PABEAN\" target=\"content\">Pengeluaran Barang</a>"
+		},{  
+			"text":"<a href=\"material/mutasi_wip_pilap.php?NmMenu=LAPORAN POSISI BARANG DALAM PROSES (WIP)\" target=\"content\">WIP</a>"
+		},{
+			"text":"<a href=\"material/mutasi_mat_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI BAHAN BAKU DAN BAHAN PENOLONG\" target=\"content\">Mutasi Barang Baku dan Bahan Penolong</a>"
+		},{
+			"text":"<a href=\"material/mutasi_fg_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI BARANG JADI\" target=\"content\">Mutasi Barang Jadi</a>"
+		},{
+			"text":"<a href=\"material/mutasi_scrap_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI BARANG SISA DAN SCRAP\" target=\"content\">Mutasi Barang Sisa & Scrap</a>"
+		},{
+			"text":"<a href=\"material/mutasi_mac_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI MESIN DAN PERALATAN PERKANTORAN\" target=\"content\">Mutasi Barang Mesin & Peralatan Perkantoran</a>"
+		},{
+			"text":"<a href=\"beacukai/rekapbcp_pilap.php?NmMenu=REKAPITULASI KEGIATAN PERUSAHAAN YANG MENDAPAT FASILITAS KAWASAN BERIKAT\" target=\"content\">Rekapitulasi BCP</a>"						
+		}]		
+	}]
+},{  
+    "text":"<a href='logout.php'>Logout</a>"  
+}]

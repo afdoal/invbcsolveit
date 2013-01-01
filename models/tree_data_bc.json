@@ -1,0 +1,23 @@
+[{  
+    "text":"Bea Cukai Report",  
+	"state":"open",  
+	"children":[{  
+		"text":"<a href=\"beacukai/masukbarang_pilap.php?NmMenu=LAPORAN PEMASUKAN BARANG PER DOKUMEN PABEAN\" target=\"content\">Pemasukan Barang</a>"
+	},{  
+		"text":"<a href=\"beacukai/keluarbarang_pilap.php?NmMenu=LAPORAN PENGELUARAN BARANG PER DOKUMEN PABEAN\" target=\"content\">Pengeluaran Barang</a>"
+	},{  
+		"text":"<a href=\"material/mutasi_wip_pilap.php?NmMenu=LAPORAN POSISI BARANG DALAM PROSES (WIP)\" target=\"content\">WIP</a>"
+	},{
+		"text":"<a href=\"material/mutasi_mat_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI BAHAN BAKU DAN BAHAN PENOLONG\" target=\"content\">Mutasi Barang Baku dan Bahan Penolong</a>"
+	},{
+		"text":"<a href=\"material/mutasi_fg_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI BARANG JADI\" target=\"content\">Mutasi Barang Jadi</a>"
+	},{
+		"text":"<a href=\"material/mutasi_scrap_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI BARANG SISA DAN SCRAP\" target=\"content\">Mutasi Barang Sisa & Scrap</a>"
+	},{
+		"text":"<a href=\"material/mutasi_mac_pilap.php?NmMenu=LAPORAN PERTANGGUNGJAWABAN MUTASI MESIN DAN PERALATAN PERKANTORAN\" target=\"content\">Mutasi Barang Mesin & Peralatan Perkantoran</a>"
+	},{
+		"text":"<a href=\"beacukai/rekapbcp_pilap.php?NmMenu=REKAPITULASI KEGIATAN PERUSAHAAN YANG MENDAPAT FASILITAS KAWASAN BERIKAT\" target=\"content\">Rekapitulasi BCP</a>"						
+	}]			
+},{  
+    "text":"<a href='logout.php'>Logout</a>"  
+}]
